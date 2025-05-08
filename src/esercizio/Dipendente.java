@@ -1,3 +1,5 @@
+package esercizio;
+
 public abstract class Dipendente implements CheckIn {
     private String matricola;
     private Dipartimento dipartimento;

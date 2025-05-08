@@ -1,4 +1,6 @@
-public class DipendentePartTime extends Dipendente{
+package esercizio;
+
+public class DipendentePartTime extends Dipendente {
     private int oreLavorate;
     private double pagaOraria;
 

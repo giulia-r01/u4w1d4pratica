@@ -1,4 +1,6 @@
-public class Dirigente extends Dipendente{
+package esercizio;
+
+public class Dirigente extends Dipendente {
     private static final double STIPENDIO_DIRIGENTE = 5000.0;
 
     public Dirigente(String matricola, Dipartimento dipartimento) {

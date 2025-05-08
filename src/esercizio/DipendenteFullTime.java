@@ -1,4 +1,6 @@
-public class DipendenteFullTime extends Dipendente{
+package esercizio;
+
+public class DipendenteFullTime extends Dipendente {
     private double stipendioMensile;
 
     public DipendenteFullTime(String matricola, Dipartimento dipartimento, double stipendio) {

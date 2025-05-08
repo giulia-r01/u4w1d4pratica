@@ -1,4 +1,6 @@
-public class Volontario implements CheckIn{
+package esercizio;
+
+public class Volontario implements CheckIn {
     private String name;
     private int eta;
     private String cv;
